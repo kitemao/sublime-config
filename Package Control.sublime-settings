@@ -1,0 +1,21 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"Baidu FE Code Style",
+		"ColorPicker",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"HTMLBeautify",
+		"Image2Base64",
+		"JsFormat",
+		"Package Control",
+		"StyleToken",
+		"Stylus"
+	]
+}
