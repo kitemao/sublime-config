@@ -1,8 +1,13 @@
 {
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
 	"font_size": 14.0,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"ruler": 120
+	"ruler": 120,
+	"theme": "Spacegray.sublime-theme",
+	"trim_trailing_white_space_on_save": true
 }

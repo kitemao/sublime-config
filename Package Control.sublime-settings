@@ -4,18 +4,25 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
 		"AngularJS",
+		"AutoFileName",
 		"Baidu FE Code Style",
 		"ColorPicker",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
+		"Git",
 		"HTMLBeautify",
 		"Image2Base64",
 		"JsFormat",
+		"Modific",
 		"Package Control",
+		"Pretty JSON",
 		"StyleToken",
-		"Stylus"
+		"Stylus",
+		"SyncedSideBar",
+		"Theme - Spacegray"
 	]
 }
