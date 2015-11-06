@@ -22,5 +22,12 @@
         "args": {
             "file": "Packages/User/to-4.sublime-macro"
         }
-    }
+    },
+    {
+        "keys": [
+            "super+ctrl+j"
+        ],
+        "command": "pretty_json"
+    },
+    { "keys": ["super+ctrl+l"], "command": "alignment" }
 ]
